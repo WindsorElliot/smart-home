@@ -1,0 +1,5 @@
+name: "smart-home"
+
+packages:
+  - packages/*
+  - apps/*
