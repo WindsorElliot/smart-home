@@ -1,0 +1,8 @@
+name: "smart_home"
+publish_to: none
+version: 0.0.1
+environment:
+  sdk: "^3.0.0"
+
+dependencies:
+  melos: ^3.1.0
